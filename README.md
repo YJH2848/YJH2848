@@ -1,6 +1,7 @@
 # Tech Stack
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/C-3766AB?style=flat-square&logo=C&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/JAVA-brown?style=flat-square&logo=java&logoColor=white"/></a> 
 
  <img src="https://img.shields.io/badge/Oracle-red?style=flat-square&logo=Oracle&logoColor=white"/></a> 
 
