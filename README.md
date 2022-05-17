@@ -10,3 +10,10 @@
 <img src="https://img.shields.io/badge/HTML5-orange?style=flat-square&logo=html5&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/CSS3-blue?style=flat-square&logo=css3&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/React-87cefa?style=flat-square&logo=React&logoColor=white"/></a> 
+
+# Baekjoon tier
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbswhdgur2843)](https://solved.ac/dbswhdgur2843)
+<hr>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YJH2848)](https://github.com/YJH2848/github-readme-stats)
