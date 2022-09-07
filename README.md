@@ -1,5 +1,5 @@
 <div align="center">
- <h1>Tech Stack</h1>
+ <h1>Tech Stacks</h1>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/C-3766AB?style=flat-square&logo=C&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/JAVA-brown?style=flat-square&logo=java&logoColor=white"/></a> 
