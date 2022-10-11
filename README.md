@@ -10,7 +10,11 @@
 <img src="https://img.shields.io/badge/HTML5-orange?style=flat-square&logo=html5&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/CSS3-blue?style=flat-square&logo=css3&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/React-87cefa?style=flat-square&logo=React&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/Typescript-87cefa?style=flat-square&logo=Typescript&logoColor=white"/></a> 
 
+<h1>Main Stack</h1>
+<img src="https://img.shields.io/badge/React-87cefa?style=flat-square&logo=React&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/Typescript-87cefa?style=flat-square&logo=Typescript&logoColor=white"/></a> 
 
 # Baekjoon tier
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbswhdgur2843)](https://solved.ac/dbswhdgur2843)
