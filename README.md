@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/React-87cefa?style=flat-square&logo=React&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Typescript-87cefa?style=flat-square&logo=Typescript&logoColor=white"/></a> 
 
-<h1>Main Stack</h1>
+<h1>My Main Stack</h1>
 <img src="https://img.shields.io/badge/React-87cefa?style=flat-square&logo=React&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Typescript-87cefa?style=flat-square&logo=Typescript&logoColor=white"/></a> 
 
