@@ -20,5 +20,5 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbswhdgur2843)](https://solved.ac/dbswhdgur2843)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YJH2848)](https://github.com/YJH2848/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YJH2848)](https://github.com/YJH2848/github-readme-stats)
 </div>
