@@ -1,8 +1,14 @@
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=풀%20스택%20개발자가%20되고%20싶은%20프론트개발자&fontSize=40" />
  
-# 풀 스택 개발자가 되고 싶어 하는 생각만 많은 프론트 개발자!
  
-
+### My Main Stack 
+ <img src="https://img.shields.io/badge/React-lightblue?style=flat&logo=React&logoColor=white"/>
+ <img src="https://img.shields.io/badge/TypeScript-blue?style=flat&logo=TypeScript&logoColor=white"/>
+ <img src="https://img.shields.io/badge/NodeJs-green?style=flat&logo=nodejs&logoColor=white"/>
+ 
+ ## 
+ 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbswhdgur2843)](https://solved.ac/dbswhdgur2843) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YJH2848)](https://github.com/YJH2848/github-readme-stats)
 </div>
