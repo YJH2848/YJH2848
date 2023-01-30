@@ -7,6 +7,7 @@
  <img src="https://img.shields.io/badge/TypeScript-blue?style=flat&logo=TypeScript&logoColor=white"/>
  <img src="https://img.shields.io/badge/NodeJs-darkgreen?style=flat&logo=node.js&logoColor=white"/>
  <img src="https://img.shields.io/badge/MongoDB-lightgreen?style=flat&logo=MongoDB&logoColor=white"/>
+ <img src="https://img.shields.io/badge/MySQL-lightblue?style=flat&logo=MySQL&logoColor=white"/>
  
  ## 
  
