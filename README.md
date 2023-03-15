@@ -12,5 +12,9 @@
  <img src="https://img.shields.io/badge/MongoDB-lightgreen?style=flat&logo=MongoDB&logoColor=white"/>
  <img src="https://img.shields.io/badge/MySQL-lightblue?style=flat&logo=MySQL&logoColor=white"/>
 
+ ### Tools
+ <img src="https://img.shields.io/badge/inventor-yellow?style=flat&logo=Inventor&logoColor=white"/>
+ <img src="https://img.shields.io/badge/vsCode-blue?style=flat&logo=VisualStudioCode&logoColor=white"/>
+ <img src="https://img.shields.io/badge/figma-pink?style=flat&logo=figma&logoColor=white"/>
  
 </div>
