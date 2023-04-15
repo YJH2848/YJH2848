@@ -6,6 +6,7 @@
  <img src="https://img.shields.io/badge/React-lightblue?style=flat&logo=React&logoColor=white"/>
  <img src="https://img.shields.io/badge/TypeScript-blue?style=flat&logo=TypeScript&logoColor=white"/>
  <img src="https://img.shields.io/badge/NodeJs-darkgreen?style=flat&logo=node.js&logoColor=white"/>
+ <img src="https://img.shields.io/badge/NextJs-black?style=flat&logo=next.js&logoColor=white"/>
  
 ### DB
  
