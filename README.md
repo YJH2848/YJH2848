@@ -20,4 +20,8 @@
  <img src="https://img.shields.io/badge/vsCode-blue?style=flat&logo=VisualStudioCode&logoColor=white"/>
  <img src="https://img.shields.io/badge/figma-pink?style=flat&logo=figma&logoColor=white"/>
  
+ ### My Velog
+ 
+ <a href="https://velog.io/@yunj05763">Velog</a>
 </div>
+
