@@ -13,8 +13,9 @@
  <img src="https://img.shields.io/badge/vsCode-blue?style=flat&logo=VisualStudioCode&logoColor=white"/>
  <img src="https://img.shields.io/badge/figma-pink?style=flat&logo=figma&logoColor=white"/>
  
- ### My Velog
+ ### My Velog and Notion!
  
- <a href="https://velog.io/@yunj05763">Velog</a>
+ <a href="https://velog.io/@yunj05763">Velog</a><br />
+ <a href="https://www.notion.so/FE_DEVELOPER-1280c327ffc6458fabd3875546a2ceb4">Notion</a>
 </div>
 
