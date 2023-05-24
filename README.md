@@ -1,8 +1,9 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=JJAP_FE_Developer&fontSize=40" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=IOT_Developer&fontSize=40" />
  
  
 ### I can use...
+ <img src="https://img.shields.io/badge/C++-blue?style=flat&logo=C++&logoColor=white"/>
  <img src="https://img.shields.io/badge/React-lightblue?style=flat&logo=React&logoColor=white"/>
  <img src="https://img.shields.io/badge/TypeScript-blue?style=flat&logo=TypeScript&logoColor=white"/>
  <img src="https://img.shields.io/badge/NodeJs-darkgreen?style=flat&logo=node.js&logoColor=white"/>
