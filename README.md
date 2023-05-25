@@ -3,7 +3,6 @@
  
  
 ### I can use...
- <img src="https://img.shields.io/badge/C++-blue?style=flat&logo=C++&logoColor=white"/>
  <img src="https://img.shields.io/badge/React-lightblue?style=flat&logo=React&logoColor=white"/>
  <img src="https://img.shields.io/badge/TypeScript-blue?style=flat&logo=TypeScript&logoColor=white"/>
  <img src="https://img.shields.io/badge/NodeJs-darkgreen?style=flat&logo=node.js&logoColor=white"/>
@@ -14,6 +13,10 @@
  <img src="https://img.shields.io/badge/inventor-yellow?style=flat&logo=Inventor&logoColor=white"/><br>
  <img src="https://img.shields.io/badge/vsCode-blue?style=flat&logo=VisualStudioCode&logoColor=white"/>
  <img src="https://img.shields.io/badge/figma-pink?style=flat&logo=figma&logoColor=white"/>
+ 
+ ### Studying
+ <img src="https://img.shields.io/badge/C++-blue?style=flat&logo=C++&logoColor=white"/>
+ <img src="https://img.shields.io/badge/PLC-lightblue?style=flat&logo=PLC&logoColor=white"/>
  
  ### My Velog and Notion!
  
