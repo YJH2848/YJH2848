@@ -1,6 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=프로세스를_추구하는_개발자&fontSize=40" />
- 
+
  
 ### I can use...
  <img src="https://img.shields.io/badge/React-lightblue?style=flat&logo=React&logoColor=white"/>
@@ -16,7 +15,6 @@
  
  ### Studying
  <img src="https://img.shields.io/badge/C++-blue?style=flat&logo=C++&logoColor=white"/>
- <img src="https://img.shields.io/badge/PLC-lightblue?style=flat&logo=PLC&logoColor=white"/>
  
  ### My Velog and Notion!
  
