@@ -2,9 +2,13 @@
 
  
  
- ### Studying
+ ### I can use...
  <img src="https://img.shields.io/badge/python-blue?style=flat&logo=python&logoColor=white"/>
  <img src="https://img.shields.io/badge/OpenCV-green?style=flat&logo=OpenCV&logoColor=white"/>
+
+ ### Sub Skills
+ <img src="https://img.shields.io/badge/React-skyblue?style=flat&logo=React&logoColor=white"/>
+ <img src="https://img.shields.io/badge/NextJs-white?style=flat&logo=NextJs&logoColor=white"/>
  
 
  
